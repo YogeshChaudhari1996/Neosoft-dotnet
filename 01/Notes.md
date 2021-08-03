@@ -4,7 +4,7 @@
 	- Distributed VCS
 		- Github, BitBucket, Gitlab etc...
 	- Centralized VCS
-		- TFS, VSTS, SVN
+		- TFS, VSTS, SVN..
 # Git
 ## Basic Git and commands
 - `cd 'path'` -> change directory
